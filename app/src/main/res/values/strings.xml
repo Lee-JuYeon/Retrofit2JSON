@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">잡다한 제육앱</string>
+
+    <string name="imageLoading">로딩 중…</string>
+
+    <string name="rallo_click">자~ 드가자</string>
+    <string name="rallo_delete">컽!</string>
+    <string name="rallo_error">에러 어질어질하네…</string>
+    <string name="rallo_quote1">긍정적인 생각, 유연한 사고</string>
+    <string name="rallo_quote2">개발자탓 하지않기.  긍정적인 생각, 유연한 사고</string>
+    <string name="rallo_quote3">배려, 사랑, 도덕</string>
+
+    <string name="rallo_not_my_fault3">\" 에러는 개발자의 탓이 아니다.\n고귀한 인간의 말을 못 알아먹은 미개한 프로그램의 탓이다. \n- 셰익스피어 \"</string>
+
+    <string name="rallo_thankyou">동영상 광고… 이건 귀하네요 허허허</string>
+
+    <string name="rallo_reward_text">광고 시청으로\n개발자 제육 한그릇 도와주기</string>
+    <string name="rallo_edittext_null">아니 음? 검색어가 없는데 음? 어떻게 사진을 찾으라는거야 음?</string>
+    <string name="rallo_result_null">쩝… 데이터가 없네요… 서운하네</string>
+    <string name="rallo_card_text">건강하세요</string>
+
+    <string name="admob_id">ca-app-pub-9451319599916202~8965159021</string>
+    <string name="admob_banner">ca-app-pub-9451319599916202/3138117273</string>
+    <string name="admob_reward">ca-app-pub-9451319599916202/3454630288</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="luxury_blueBackground">#001b30</color>
+    <color name="luxury_blueLayer">#004860</color>
+    <color name="luxury_bluePointDeep">#bb9496</color>
+    <color name="luxury_bluePointBriliant">#d8b8b3</color>
+    <color name="luxury_blueWood">#7f5744</color>
+    <color name="luxury_blueGold">#f5ec06</color>
+
+    <color name="luxury_greenBackground">#1f3524</color>
+    <color name="luxury_greenLayer">#284938</color>
+    <color name="luxury_greenPointDeep">#d4c2b4</color>
+    <color name="luxury_greenPointBriliant">#dfd2c9</color>
+    <color name="luxury_greenWood">#57371f</color>
+    <color name="luxury_greenGold">#f5ec06</color>
+</resources>
